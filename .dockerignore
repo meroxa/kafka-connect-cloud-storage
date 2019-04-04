@@ -1,0 +1,8 @@
+.github
+.idea
+.dockerignore
+.gitignore
+docker-compose*
+Dockerfile
+*.md
+Makefile
